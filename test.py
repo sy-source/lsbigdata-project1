@@ -1,3 +1,4 @@
+
 import numpy as np
 import pandas as pd
 
@@ -15,3 +16,8 @@ type(df)
 type(df["name"])
 
 sum(df["english"])/4
+
+a = 10
+b = 20
+print("a==b", a == b)
+
